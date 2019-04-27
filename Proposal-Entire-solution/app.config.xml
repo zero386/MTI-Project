@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <appSettings>
+        <add key="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=zero386;AccountKey=pEWyw5dngkgnkbXxNVNIoOiepl1vlvWBWTBOMhNxk/cbg00XswiBowHOAD+A6sjLhLmKYrQ9s4o1mif0KpOOmA==;EndpointSuffix=core.windows.net" />
+    </appSettings>
+</configuration>
